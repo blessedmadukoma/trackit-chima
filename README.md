@@ -7,6 +7,7 @@ To run:
 <br>
 
 <b> Images of the API: </b>
+<br>
 Sign up:
 <img width="1218" alt="Screenshot 2022-08-15 at 14 03 10" src="https://user-images.githubusercontent.com/49055048/184640559-a339b75b-505e-4d8d-8cf0-d99ac8aaef42.png">
 
